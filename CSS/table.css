@@ -1,0 +1,42 @@
+.tableContainer {
+    
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.table {
+    overflow-x: auto;
+    width: 100%;
+    border-collapse: collapse;
+    padding-bottom: 30px;
+}
+
+.table__caption {
+    font-style: italic;
+    font-size: larger;
+    padding: 20px;
+    padding-top: 10px;
+}
+
+.table__cell {
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.table__cell--strong {
+    background-color: rgb(147, 150, 148);
+}
+
+.table__header {
+    color: white;
+    font-weight: normal;
+    background-color: rgb(21 58 53);
+    border: solid black;
+}
+
+.table__row:hover {
+    background-color: rgb(147, 150, 148);
+}
+

@@ -1,0 +1,14 @@
+.logoContainer {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    padding-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 100px;
+
+}
+
+.logoSmall {
+    padding-top: 25px;
+}

@@ -1,0 +1,12 @@
+.container {
+    background-color: white;
+    color: black;
+    font-family: 'Lato', sans-serif;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.container--dark {
+    color: rgb(168, 187, 177);
+    background-color: black;
+}
