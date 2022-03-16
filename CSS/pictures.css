@@ -1,6 +1,7 @@
 .pictures {
     flex-wrap: wrap;
     display: flex;
+    flex: 1 1 auto;
     justify-content: space-around;
     padding: 20px;
     max-width: 1000px;
