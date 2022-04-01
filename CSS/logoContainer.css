@@ -1,15 +1,16 @@
 .logoContainer {
-    display: flex;
-    flex-wrap: wrap;
-    flex: 1 1 auto;
-    justify-content: space-between;
-    padding: 20px;
-    padding-bottom: 30px;
-    margin-left: 150px;
-    margin-right: 100px;
-
+   
+display: grid;
+grid-template-columns: repeat(auto-fill, 350px);
+justify-content: center;
+padding: 20px;
 }
 
-.logoSmall {
-    padding-top: 25px;
+
+.logoContainer__item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 15px;
 }
