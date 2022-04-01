@@ -1,6 +1,6 @@
 .logoContainer {
-    flex-wrap: wrap;
     display: flex;
+    flex-wrap: wrap;
     flex: 1 1 auto;
     justify-content: space-between;
     padding: 20px;
